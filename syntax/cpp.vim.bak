@@ -1,0 +1,3 @@
+syn match cClassName "\<[a-zA-Z][a-zA-Z_0-9]*\>*\:"me=e-1
+hi cClassName gui=NONE guifg=CYAN
+
